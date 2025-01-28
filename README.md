@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a self-taught front-end web developer. I’m currently learning HTML, CSS, and JavaScript. In the future, I will move on to a JavaScript framework, which is a powerful tool for building websites.
+I’m a self-taught front-end web developer. I’m currently learning HTML, CSS, and JavaScript. In the future, I will move on to a JavaScript and css framework, which is a powerful tool for building websites.
 
 
 ## 🌐 Socials:
