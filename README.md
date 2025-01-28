@@ -1,6 +1,6 @@
 <img src="cover-photo.png" style="border-radius:10px;">
 # 💫 About Me:
-<br>
+<br><br>
 I’m a self-taught front-end web developer. I’m currently learning HTML, CSS, and JavaScript. In the future, I will move on to a JavaScript and css framework, which is a powerful tool for building websites.
 
 
